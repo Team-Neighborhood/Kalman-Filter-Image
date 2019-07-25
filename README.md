@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-    <img src='./KF_result.gif' width=100%>
+    <img src='./result/KF_result.gif' width=70%>
     <br>
     :fire:
 </p>
