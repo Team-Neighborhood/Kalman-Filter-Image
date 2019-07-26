@@ -97,6 +97,8 @@ class KF2d():
             output = (0,0)
         else:
             output = (int(round(x[0])), int(round(x[2])))
+        if x[0] < 10 or x[2] < 10:
+            output = (0,0)
 
         return x, P, output
 
